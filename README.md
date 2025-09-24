@@ -1,4 +1,5 @@
 |Batteries | Motors | Sensors | Boards|
+|--|--|--|--|
 |1500-15000 mAh | 250kV - 2500kV  | IR LWIR RBB IMU| Sensors Compute Controllers|
 
 
