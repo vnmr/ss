@@ -1,6 +1,3 @@
-|Design | Iteration | Production | Support|
-
-
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
 |1500| 250kv|LWIR |Sensor|
