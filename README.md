@@ -1,13 +1,8 @@
 Batteries | Motors | Sensors | Boards
-x | y  | z | a | 
 
 
-| Component | Range |
-| ---| ----|
-| Battery | 1500mAh - 15000mAh |
-| Motor | 250 kV - 2500 kV|
-| Sensors | IR, LWIR, RGB, IMU| 
-| Boards | Sensor, Compute, Motor|
+1500-15000 mAh | 250kV - 2500kV  | IR LWIR RBB IMU| Sensors Compute Controllers | 
+
 
 ![Grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg) 
 
