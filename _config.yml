@@ -2,7 +2,7 @@ title: Substep
 description: NDAA Compliant Components
 url: https://substep.xyz
 
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
 
 minima:
   skin: dark
