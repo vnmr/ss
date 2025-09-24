@@ -7,10 +7,11 @@ url: https://substep.xyz
 #remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: pages-themes/tactile@v0.2.0
 
-minima:
-  skin: dark
-  social_links:
+#minima:
+skin: dark
+social_links:
     linkedin: https://linkedin.com/company/subset
 
 image:
   background: https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg
+
