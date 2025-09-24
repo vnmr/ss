@@ -1,9 +1,13 @@
 title: Substep - NDAA Compliant Components
+description: NDAA Compliant Components
+url: https://substep.xyz
 
 #remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  social_links:
+    linkedin: https://linkedin.com/company/subset
 
 image:
   background: https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg
