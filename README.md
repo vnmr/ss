@@ -1,5 +1,4 @@
 |Design | Iteration | Production | Support|
-|--|--|--|--|
 
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
