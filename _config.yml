@@ -3,6 +3,7 @@ description: NDAA Compliant Components
 url: https://substep.xyz
 
 #remote_theme: jekyll/minima
+remote_theme: pages-themes/hacker@v0.2.0
 
 minima:
   skin: dark
