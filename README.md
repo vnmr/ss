@@ -8,6 +8,4 @@
 
 
 |\+14158123326 | [LinkedIn](https://linkedin.com/company/substep)  | info@substep.xyz | Substep LLC |
-|--|--|--|--|
-|Design | Iteration | Production | Support|
 
