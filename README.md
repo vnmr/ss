@@ -1,4 +1,4 @@
-|Batteries | Motors | Sensors | Boards|
+|**Batteries**| **Motors(( | **Sensors** | Boards|
 |--|--|--|--|
 |1500| 250kv|LWIR |Sensor|
 | - | -|RGB|Compute|
