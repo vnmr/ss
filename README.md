@@ -2,6 +2,7 @@
 |--|--|--|--|
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
+|--|--|--|--|
 |1500| 250kv|LWIR |Sensor|
 | 1000 | 1000kv|RGB|Compute|
 |15000| 2500kv|IMU|Controller|
