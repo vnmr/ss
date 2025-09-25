@@ -1,6 +1,6 @@
 ![grid](grid.png)
 
-|** [Batteries](#batteries)** | **[Motors](#motors)** | **[Sensors](sensors)** | **[Boards](boards)** |
+| ** [Batteries](#batteries)** | **[Motors](#motors)** | **[Sensors](sensors)** | **[Boards](boards)** |
 |--|--|--|--|
 |1500 mAh| 250 KV|LWIR |Sensor|
 | 1000  mAh| 1000 KV|RGB|Compute|
@@ -20,35 +20,41 @@
 
 ### Engineers
 Develop fast.
+
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
 ### Supply Chain
 Procure fast.
+
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
 ### Hobbyists
 Hack fast. 
+
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
 ### Students
 Learn Fast.
+
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
 ### Industry
 Deliver fast.
+
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
 ### Government
 Secure fast.
+
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
-{#batteries} ## Batteries
+ ## Batteries {#batteries}
 
 A lithium polymer battery, or more correctly, lithium-ion polymer battery (abbreviated as LiPo, LIP, Li-poly, lithium-poly, and others), is a rechargeable battery derived from lithium-ion and lithium-metal battery technology. The primary difference is that instead of using a liquid lithium salt (such as lithium hexafluorophosphate, LiPF6) held in an organic solvent (such as EC/DMC/DEC) as the electrolyte, the battery uses a solid (or semi-solid) polymer electrolyte such as polyethylene glycol (PEG), polyacrylonitrile (PAN), poly(methyl methacrylate) (PMMA) or poly(vinylidene fluoride) (PVdF). Other terms used in the literature for this system include hybrid polymer electrolyte (HPE), where "hybrid" denotes the combination of the polymer matrix, the liquid solvent, and the salt.
 
