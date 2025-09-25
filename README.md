@@ -1,6 +1,6 @@
 ![grid](grid.png)
 
-| **[Batteries](#batteries)** | **[Motors](#motors)** | **[Sensors](sensors)** | **[Boards](boards)** |
+| **[Batteries](#batteries)** | **[Motors](#motors)** | **[Sensors](#sensors)** | **[Boards](#boards)** |
 |--|--|--|--|
 |1500 mAh| 250 KV|LWIR |Sensor|
 | 1000  mAh| 1000 KV|RGB|Compute|
