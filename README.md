@@ -144,9 +144,11 @@ Substep supplies components for industrial robots, warehouse robots, mobile robo
 Substep is for engineers by engineers who have decades of hands-on experience designing and shipping at Bay Area, California startups and big tech with hardware, software, integration, manufacturing, and supply chain expertise across critical components and systems for autonomy, unmanned systems and robotics in all domains. 
 
 ## FAQ
-Q:
+Q: What about X component?
+A: We're open. Tell us what you want, and we'll follow up.
 
-A:
+| |[Text your requirements](sms:+14158123326)| |
+| |[Email your requirements](mailto:info@substep.xyz)| |
 
 |:--:|:--:|:--:|
 | \+ 1415 812 3326 | info@substep.xyz | Substep LLC|
