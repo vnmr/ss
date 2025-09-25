@@ -38,12 +38,48 @@ A brushless DC electric motor (BLDC), also known as an electronically commutated
 Brushless motors fulfill many functions originally performed by brushed DC motors, but cost and control complexity prevents brushless motors from replacing brushed motors completely in the lowest-cost areas. Nevertheless, brushless motors have come to dominate many applications, particularly devices such as computer hard drives and CD/DVD players. Small cooling fans in electronic equipment are powered exclusively by brushless motors. They can be found in cordless power tools where the increased efficiency of the motor leads to longer periods of use before the battery needs to be charged. Low speed, low power brushless motors are used in direct-drive turntables for gramophone records. Brushless motors can also be found in marine applications, such as underwater thrusters. Drones also utilize brushless motors to elevate their performance.
 
 
-
-The construction of a brushless motor system is typically similar to a permanent magnet synchronous motor (PMSM), but can also be a switched reluctance motor, or an induction (asynchronous) motor. They may also use neodymium magnets and be outrunners (the stator is surrounded by the rotor), inrunners (the rotor is surrounded by the stator), or axial (the rotor and stator are flat and parallel).
-
 The advantages of a brushless motor over brushed motors are high power-to-weight ratio, high speed, nearly instantaneous control of speed (rpm) and torque, high efficiency, and low maintenance. Brushless motors find applications in such places as computer peripherals (disk drives, printers), hand-held power tools, and vehicles ranging from model aircraft to automobiles. In modern washing machines, brushless DC motors have allowed replacement of rubber belts and gearboxes by a direct-drive design.
 
 ## Sensors
+
+Robotic sensors are used to estimate a robot's condition and environment. These signals are passed to a controller to enable appropriate behavior.[1][2]
+
+Sensors in robots are based on the functions of human sensory organs. Robots require extensive information about their environment in order to function effectively.
+
+Classification
+Sensors provide analogs to human senses and can monitor other phenomena for which humans lack explicit sensors.
+
+Simple Touch: Sensing an object's presence or absence.
+Complex Touch: Sensing an object's size, shape and/or hardness.
+Simple Force: Measuring force along a single axis.
+Complex Force: Measuring force along multiple axes.
+Simple Vision: Detecting edges, holes and corners.
+Complex Vision: Recognizing objects.
+Proximity: Non-contact detection of an object.
+Sensors can measure physical properties, such as the distance between objects, the presence of light and the frequency of sound. They can measure:
+
+Object Proximity: The presence/absence of an object, bearing, color, distance between objects.
+Physical orientation. The co-ordinates of object in space.
+Heat: The wavelength of infrared or ultra violet rays, temperature, magnitude, direction.
+Chemicals: The presence, identity, and concentration of chemicals or reactants
+Sound: The presence, frequency, and intensity of sound.
+Motion controllers, potentiometers, tacho-generators and encoder are used as joint sensors, whereas strain-gauge based sensing is used at the end-effector location for contact force control.
+
+Internal sensor*
+It is the part of the robot. Internal sensors measure the robot's internal state. They are used to measure position, velocity and acceleration of the robot joint or end effectors.
+
+Position sensor
+Position sensors measure the position of a joint (the degree to which the joint is extended). They include:
+
+Encoder: a digital optical device that converts motion into a sequence of digital pulses.
+Potentiometer: a variable resistance device that expresses linear or angular displacements in terms of voltage.
+Linear variable differential transformer: a displacement transducer that provides high accuracy. It generates an AC signal whose magnitude is a function of the displacement of a moving core.
+Synchros and Resolvers
+Velocity Sensor
+A velocity or speed sensor measures consecutive position measurements at known intervals and computes the time rate of change in the position values.
+
+Applications
+In a parts feeder, a vision sensor can eliminate the need for an alignment pallet. Vision-enabled insertion robots can precisely perform fitting and insertion operations of machine parts.
 
 ## Boards
 
