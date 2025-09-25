@@ -6,7 +6,7 @@
 | 1000  mAh| 1000 KV|RGB|Compute|
 |15000 mAh| 2500 KV|IMU|Controller|
 |LiPo / LiOn | 1-20 NM | SW+Docs | SWaP + SW |
-|-|-|-|-|
+| | | | |
 
 <!--
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
@@ -55,7 +55,7 @@ Secure fast.
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
- ## Batteries
+## Batteries
 
 A lithium polymer battery, or more correctly, lithium-ion polymer battery (abbreviated as LiPo, LIP, Li-poly, lithium-poly, and others), is a rechargeable battery derived from lithium-ion and lithium-metal battery technology. The primary difference is that instead of using a liquid lithium salt (such as lithium hexafluorophosphate, LiPF6) held in an organic solvent (such as EC/DMC/DEC) as the electrolyte, the battery uses a solid (or semi-solid) polymer electrolyte such as polyethylene glycol (PEG), polyacrylonitrile (PAN), poly(methyl methacrylate) (PMMA) or poly(vinylidene fluoride) (PVdF). Other terms used in the literature for this system include hybrid polymer electrolyte (HPE), where "hybrid" denotes the combination of the polymer matrix, the liquid solvent, and the salt.
 
