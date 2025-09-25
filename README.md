@@ -131,7 +131,7 @@ A single-board microcontroller is a microcontroller built onto a single printed 
 
 As they are usually low-cost, and have an especially low capital cost for development, single-board microcontrollers have long been popular in education. They are also a popular means for developers to gain hands-on experience with a new processor family.
 
- microprocessor development board is a printed circuit board containing a microprocessor and the minimal support logic needed for an electronic engineer or any person who wants to become acquainted with the microprocessor on the board and to learn to program it. It also served users of the microprocessor as a method to prototype applications in products.
+ A microprocessor development board is a printed circuit board containing a microprocessor and the minimal support logic needed for an electronic engineer or any person who wants to become acquainted with the microprocessor on the board and to learn to program it. It also served users of the microprocessor as a method to prototype applications in products.
 
 Unlike a general-purpose system such as a home computer, usually a development board contains little or no hardware dedicated to a user interface. It will have some provision to accept and run a user-supplied program, such as downloading a program through a serial port to flash memory, or some form of programmable memory in a socket in earlier systems.
 
