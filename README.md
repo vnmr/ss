@@ -83,6 +83,14 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 
 ## Boards
 
+A single-board microcontroller is a microcontroller built onto a single printed circuit board. This board provides all of the circuitry necessary for a useful control task: a microprocessor, I/O circuits, a clock generator, RAM, stored program memory and any necessary support ICs. The intention is that the board is immediately useful to an application developer, without requiring them to spend time and effort to develop controller hardware.
+
+As they are usually low-cost, and have an especially low capital cost for development, single-board microcontrollers have long been popular in education. They are also a popular means for developers to gain hands-on experience with a new processor family.
+
+ microprocessor development board is a printed circuit board containing a microprocessor and the minimal support logic needed for an electronic engineer or any person who wants to become acquainted with the microprocessor on the board and to learn to program it. It also served users of the microprocessor as a method to prototype applications in products.
+
+Unlike a general-purpose system such as a home computer, usually a development board contains little or no hardware dedicated to a user interface. It will have some provision to accept and run a user-supplied program, such as downloading a program through a serial port to flash memory, or some form of programmable memory in a socket in earlier systems.
+
 |:--:|:--:|:--:|
 | \+14158123326 | info@substep.xyz | Substep LLC|
 |:--:|:--:|:--:|
