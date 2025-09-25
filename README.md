@@ -1,6 +1,6 @@
 ![grid](grid.png)
 
-|**[Batteries](#batteries)**| **[Motors](?motors)** | **[Sensors](sensors)** | **[Boards](boards)**|
+|** [Batteries](#batteries)** | **[Motors](#motors)** | **[Sensors](sensors)** | **[Boards](boards)** |
 |--|--|--|--|
 |1500 mAh| 250 KV|LWIR |Sensor|
 | 1000  mAh| 1000 KV|RGB|Compute|
@@ -16,7 +16,7 @@
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
-## Solutions - More Time. More Capapable.
+## Solutions - More Time. More Capable.
 
 ### Engineers
 Develop fast.
