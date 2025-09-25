@@ -1,3 +1,5 @@
+![grid](grid.png)
+
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
 |1500 mAh| 250 KV|LWIR |Sensor|
@@ -10,7 +12,6 @@
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
 -->
 
-![grid](grid.png)
 
 ## Batteries
 
