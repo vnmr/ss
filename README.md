@@ -1,7 +1,7 @@
 
 ![grid](grid.png)
 
-## Optimal SWaP from Prototype to Production
+## Prototype to Production NDAA Performance
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
