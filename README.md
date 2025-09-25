@@ -94,7 +94,7 @@ As they are usually low-cost, and have an especially low capital cost for develo
 
 Unlike a general-purpose system such as a home computer, usually a development board contains little or no hardware dedicated to a user interface. It will have some provision to accept and run a user-supplied program, such as downloading a program through a serial port to flash memory, or some form of programmable memory in a socket in earlier systems.
 
-> **"Existing NDAA components fast follow, lack right sized-features, or lack support. Non-NDAA options add untenable risk. We wish we had Substep's NDAA high performance components from prototype to production."** - Substep team after designing and shipping systems in all domains. 
+> **"Existing NDAA components fast follow, wrongly size-features, or lack support. Non-NDAA options add untenable risk. We wish we had Substep's NDAA high performance components from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
 |:--:|:--:|:--:|
 | \+ 1415 812 3326 | info@substep.xyz | Substep LLC|
