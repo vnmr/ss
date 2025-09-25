@@ -1,6 +1,7 @@
+## Fully supported High Performance NDAA SWaP optimized for your system
+
 ![grid](grid.png)
 
-## SWaP optimized Prototype to Production
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
