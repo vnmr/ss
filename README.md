@@ -1,6 +1,6 @@
 ![grid](grid.png)
 
-|**(Batteries)[?#batteries\**| **(Motors)[?#motors]** | **[Sensors](#sensors)** | **[Boards](#boards)**|
+|**[Batteries](?#batteries)**| **[Motors](?#motors)** | **[Sensors](#sensors)** | **[Boards](#boards)**|
 |--|--|--|--|
 |1500 mAh| 250 KV|LWIR |Sensor|
 | 1000  mAh| 1000 KV|RGB|Compute|
@@ -67,7 +67,7 @@ A typical cell has four main components: a positive electrode, a negative electr
 
 
 
-## Motors(#motors)
+## Motors (#motors)
 
 A brushless DC electric motor (BLDC), also known as an electronically commutated motor, is a synchronous motor using a direct current (DC) electric power supply. It uses an electronic controller to switch DC currents to the motor windings, producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. The controller adjusts the phase and amplitude of the current pulses that control the speed and torque of the motor. It is an improvement on the mechanical commutator (brushes) used in many conventional electric motors.
 
