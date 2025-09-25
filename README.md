@@ -45,7 +45,7 @@ Deliver fast.
 
 ### Government
 Secure fast.
-|[Text your requirements](sms:+14158123326)||
+|[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
 ## Batteries
