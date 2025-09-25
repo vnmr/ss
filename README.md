@@ -97,6 +97,6 @@ Unlike a general-purpose system such as a home computer, usually a development b
 > **"Existing NDAA components fast follow, lack right sized-features, or lack support. Non-NDAA options add untenable risk. We wish we had Substep's NDAA high performance components from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
 |:--:|:--:|:--:|
-| \+14158123326 | info@substep.xyz | Substep LLC|
+| \+ 1415 812 3326 | info@substep.xyz | Substep LLC|
 |:--:|:--:|:--:|
 |-|[![LinkedIn](linkedin-30.png)](https://linkedin.com/company/substep) |-|
