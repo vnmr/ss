@@ -13,6 +13,6 @@
 ![grid](grid.png)
 
 |:--:|:--:|
-|Substep LLC | info@substep.xyz | 
-|[![LinkedIn](linkedin-30.png)](https://linkedin.com/company/substep)| \+14158123326 | 
+| \+14158123326 | [![LinkedIn](linkedin-30.png)](https://linkedin.com/company/substep) |
+|info@substep.xyz | Substep LLC |
 
