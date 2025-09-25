@@ -1,7 +1,7 @@
-## Fully supported High Performance NDAA SWaP optimized for your system
 
 ![grid](grid.png)
 
+### Full support High performance NDAA SWaP for your system
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
