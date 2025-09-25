@@ -1,5 +1,6 @@
-# SWaP optimized - Prototype to Production
 ![grid](grid.png)
+
+## SWaP optimized Prototype to Production
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
