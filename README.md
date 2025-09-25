@@ -155,8 +155,9 @@ Q: What about X component?
 
 A: We're open. Tell us what you want, and we'll follow up.
 
-| |[Text your requirements](sms:+14158123326)| |
-| |[Email your requirements](mailto:info@substep.xyz)| |
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 |:--:|:--:|:--:|
 | \+ 1415 812 3326 | info@substep.xyz | Substep LLC|
