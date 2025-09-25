@@ -5,11 +5,11 @@ future: true
 jailed: false
 url: https://substep.xyz
 
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
 #remote_theme: pages-themes/hacker@v0.2.0
 #remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: pages-themes/tactile@v0.2.0
-#remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 
 #minima:
 skin: midnight
