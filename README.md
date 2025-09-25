@@ -1,7 +1,7 @@
 
 ![grid](grid.png)
 
-### Full support High performance NDAA SWaP for your system
+## High performance NDAA SWaP from Prototype to Production
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
