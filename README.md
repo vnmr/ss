@@ -1,4 +1,3 @@
-
 ![grid](grid.png)
 
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
@@ -12,6 +11,8 @@
 <!--
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
 -->
+
+|get components|
 
 |**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
 
