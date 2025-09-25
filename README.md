@@ -16,7 +16,7 @@
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
-## Solutions
+## Solutions - More Time. More Capapable.
 
 ### Engineers
 Develop fast.
