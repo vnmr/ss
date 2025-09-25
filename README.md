@@ -1,8 +1,6 @@
 
 ![grid](grid.png)
 
-## Prototype to Production NDAA Performance
-
 |**Batteries**| **Motors** | **Sensors** | **Boards**|
 |--|--|--|--|
 |1500 mAh| 250 KV|LWIR |Sensor|
