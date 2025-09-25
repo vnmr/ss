@@ -24,38 +24,44 @@
 ### Engineers
 Develop fast.
 
-|[Text your requirements](sms:+14158123326)|
-|[Email your requirements](mailto:info@substep.xyz)|
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ### Supply Chain
 Procure fast.
 
-|[Text your requirements](sms:+14158123326)|
-|[Email your requirements](mailto:info@substep.xyz)|
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ### Hobbyists
 Hack fast. 
 
-|[Text your requirements](sms:+14158123326)|
-|[Email your requirements](mailto:info@substep.xyz)|
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ### Students
 Learn Fast.
 
-|[Text your requirements](sms:+14158123326)|
-|[Email your requirements](mailto:info@substep.xyz)|
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ### Industry
 Deliver fast.
 
-|[Text your requirements](sms:+14158123326)|
-|[Email your requirements](mailto:info@substep.xyz)|
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ### Government
 Secure fast.
 
-|[Text your requirements](sms:+14158123326)|
-|[Email your requirements](mailto:info@substep.xyz)|
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ## Batteries
 
