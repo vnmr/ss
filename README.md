@@ -4,7 +4,7 @@
 | 1000  mAh| 1000 KV|RGB|Compute|
 |15000 mAh| 2500 KV|IMU|Controller|
 |LiPo / LiOn | 1-20 NM | SW+Docs | SWaP + SW |
-|--|--|--|--|
+| | | | |
 
 <!--
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
