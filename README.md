@@ -13,7 +13,12 @@
 
 |**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
 
-## Solutuins
+|[Text your requirements](tel:+14158123326)| Start Now|
+
+## Solutions
+
+### Engineers
+Develop fast.
 
 ### Hobbyists
 Hack fast. 
@@ -25,7 +30,7 @@ Learn Fast.
 Deliver fast.
 
 ### Government
-Comply fast.`
+Secure fast.
 
 ## Batteries
 
