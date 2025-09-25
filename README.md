@@ -18,7 +18,7 @@
 |[Email your requirements](mailto:info@substep.xyz)|
 | | 
 
-## Solutions - More Time. More Capable.
+## More Time. More Capable.
 
 ### Engineers
 Develop fast.
