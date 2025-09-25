@@ -138,7 +138,7 @@ Unlike a general-purpose system such as a home computer, usually a development b
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. We're building the components we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
 ## Systems
-Substep components target Industrial robots, warehouse robots, mobile robots, robotic arms, quadrupeds, humanoids, undersea robots, drones, AMR, UAS, UAV, UUV, USV, Cyber-Physical Systems and more
+Substep supplies components for industrial robots, warehouse robots, mobile robots, robotic arms, quadrupeds, humanoids, undersea robots, unmanned systems, uncrewered systems, drones, AMR, UAS, UAV, UUV, USV, cyber-physical systems and more
 
 ## About
 Substep is for engineers by engineers who have decades of hands-on experience designing and shipping at Bay Area, California startups and big tech with hardware, software, integration, manufacturing, and supply chain expertise across critical components and systems for autonomy, unmanned systems and robotics in all domains. 
