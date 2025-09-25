@@ -13,6 +13,7 @@
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
 -->
 
+|Purpose-built for autonomy, unmanned systems and robotics| Designed for NDAA compliance| Engineered for performance |
 
 ## Batteries
 
