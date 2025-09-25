@@ -94,6 +94,8 @@ As they are usually low-cost, and have an especially low capital cost for develo
 
 Unlike a general-purpose system such as a home computer, usually a development board contains little or no hardware dedicated to a user interface. It will have some provision to accept and run a user-supplied program, such as downloading a program through a serial port to flash memory, or some form of programmable memory in a socket in earlier systems.
 
+> "Substep hardware are the components we wish we had"
+
 |:--:|:--:|:--:|
 | \+14158123326 | info@substep.xyz | Substep LLC|
 |:--:|:--:|:--:|
