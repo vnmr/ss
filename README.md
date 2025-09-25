@@ -59,6 +59,8 @@ Deliver fast.
 ### Government
 Secure fast.
 
+[NDAA Section 889 Policies](https://www.acquisition.gov/Section-889-Policies)
+
 | |
 | [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
 | | 
