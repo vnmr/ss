@@ -137,6 +137,9 @@ Unlike a general-purpose system such as a home computer, usually a development b
 
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. Substep's components are the ones we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
+## About
+Substep is for engineers by engineers. Bay are natives with expertise hardware, software, supply chain, and integration across components and systems for autonomy, unmanned systems and robotics in all domians. 
+
 |:--:|:--:|:--:|
 | \+ 1415 812 3326 | info@substep.xyz | Substep LLC|
 |:--:|:--:|:--:|
