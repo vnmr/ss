@@ -56,7 +56,7 @@ Secure fast.
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
 
- ## Batteries {#batteries}
+ ## Batteries
 
 A lithium polymer battery, or more correctly, lithium-ion polymer battery (abbreviated as LiPo, LIP, Li-poly, lithium-poly, and others), is a rechargeable battery derived from lithium-ion and lithium-metal battery technology. The primary difference is that instead of using a liquid lithium salt (such as lithium hexafluorophosphate, LiPF6) held in an organic solvent (such as EC/DMC/DEC) as the electrolyte, the battery uses a solid (or semi-solid) polymer electrolyte such as polyethylene glycol (PEG), polyacrylonitrile (PAN), poly(methyl methacrylate) (PMMA) or poly(vinylidene fluoride) (PVdF). Other terms used in the literature for this system include hybrid polymer electrolyte (HPE), where "hybrid" denotes the combination of the polymer matrix, the liquid solvent, and the salt.
 
@@ -75,7 +75,7 @@ A typical cell has four main components: a positive electrode, a negative electr
 
 
 
-## Motors{#motors}
+## Motors
 
 A brushless DC electric motor (BLDC), also known as an electronically commutated motor, is a synchronous motor using a direct current (DC) electric power supply. It uses an electronic controller to switch DC currents to the motor windings, producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. The controller adjusts the phase and amplitude of the current pulses that control the speed and torque of the motor. It is an improvement on the mechanical commutator (brushes) used in many conventional electric motors.
 
@@ -84,7 +84,7 @@ Brushless motors fulfill many functions originally performed by brushed DC motor
 
 The advantages of a brushless motor over brushed motors are high power-to-weight ratio, high speed, nearly instantaneous control of speed (rpm) and torque, high efficiency, and low maintenance. Brushless motors find applications in such places as computer peripherals (disk drives, printers), hand-held power tools, and vehicles ranging from model aircraft to automobiles. In modern washing machines, brushless DC motors have allowed replacement of rubber belts and gearboxes by a direct-drive design.
 
-## Sensors{#sensors}
+## Sensors
 
 Robotic sensors are used to estimate a robot's condition and environment. These signals are passed to a controller to enable appropriate behavior.[1][2]
 
@@ -125,7 +125,7 @@ A velocity or speed sensor measures consecutive position measurements at known i
 Applications
 In a parts feeder, a vision sensor can eliminate the need for an alignment pallet. Vision-enabled insertion robots can precisely perform fitting and insertion operations of machine parts.
 
-## Boards{#boards}
+## Boards
 
 A single-board microcontroller is a microcontroller built onto a single printed circuit board. This board provides all of the circuitry necessary for a useful control task: a microprocessor, I/O circuits, a clock generator, RAM, stored program memory and any necessary support ICs. The intention is that the board is immediately useful to an application developer, without requiring them to spend time and effort to develop controller hardware.
 
