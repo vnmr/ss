@@ -13,27 +13,40 @@
 
 |**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
 
-|[Text your requirements](tel:+14158123326)| Start Now|
+[Text your requirements](sms:+14158123326)|
+[Email your requirements](mailto:info@substep.xyz)
 
 ## Solutions
 
 ### Engineers
 Develop fast.
+[Text your requirements](sms:+14158123326)|
+[Email your requirements](mailto:info@substep.xyz)
 
 ### Supply Chain
 Procure fast.
+[Text your requirements](sms:+14158123326)|
+[Email your requirements](mailto:info@substep.xyz)
 
 ### Hobbyists
 Hack fast. 
+[Text your requirements](sms:+14158123326)|
+[Email your requirements](mailto:info@substep.xyz)
 
 ### Students
 Learn Fast.
+[Text your requirements](sms:+14158123326)|
+[Email your requirements](mailto:info@substep.xyz)
 
 ### Industry
 Deliver fast.
+[Text your requirements](sms:+14158123326)|
+[Email your requirements](mailto:info@substep.xyz)
 
 ### Government
 Secure fast.
+[Text your requirements](sms:+14158123326)|
+[Email your requirements](mailto:info@substep.xyz)
 
 ## Batteries
 
