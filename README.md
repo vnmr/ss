@@ -13,9 +13,10 @@
 -->
 
 |**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
-
+| |
 |[Text your requirements](sms:+14158123326)|
 |[Email your requirements](mailto:info@substep.xyz)|
+| | 
 
 ## Solutions - More Time. More Capable.
 
