@@ -212,6 +212,17 @@ Substep supplies components for industrial robots, warehouse robots, mobile robo
 |Humanoid|2 Legged Robot|
 |Quadruped|4 Legged Robot|
 
+## Pricing
+
+We work with you on design, volume quantiy, and pricing from single samples to millions of unitsin mass production.
+
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
+
+|:--:|:--:|:--:|
+
+
 ## About
 Substep is for engineers by engineers who have decades of hands-on experience designing and shipping at Bay Area, California startups and big tech with hardware, software, integration, manufacturing, and supply chain expertise across critical components and systems for autonomy, unmanned systems and robotics in all domains. 
 
