@@ -19,7 +19,7 @@
 | | 
 
 
-## Move fast with more capability.
+## Accelerate Development, Increase Capability
 
 ### Engineers
 Develop fast.
