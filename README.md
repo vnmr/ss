@@ -156,6 +156,8 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 
 **Common Sensors**
 
+![](https://appleye.co.il/wp-content/uploads/2024/01/AE-MB-IMX577.jpg)
+
 |**Type**|**Description**|**Note**|
 |IMU| Inertical Measurement Unit| | 
 |RGB Camera| Visible Color| | 
