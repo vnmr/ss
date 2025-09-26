@@ -98,6 +98,13 @@ Brushless motors fulfill many functions originally performed by brushed DC motor
 The advantages of a brushless motor over brushed motors are high power-to-weight ratio, high speed, nearly instantaneous control of speed (rpm) and torque, high efficiency, and low maintenance. Brushless motors find applications in such places as computer peripherals (disk drives, printers), hand-held power tools, and vehicles ranging from model aircraft to automobiles. In modern washing machines, brushless DC motors have allowed replacement of rubber belts and gearboxes by a direct-drive design.
 
 **Common Motors**
+|**Type**| | **Note**|
+|Servo| | |
+|Stepper| | |
+|Outrunner| | |
+|Inrunner| | |
+|BLDC| | |
+|PMSM| | |
 
 ## Sensors
 
