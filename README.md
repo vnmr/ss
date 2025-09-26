@@ -97,6 +97,7 @@ A typical cell has four main components: a positive electrode, a negative electr
 
 ## Motors
 
+### BLDC - Brushless Direct Current
 ![](https://s.alicdn.com/@sc04/kf/H671d1afd1a684a3b8f68f8b963434ab2H.jpg)
 
 A brushless DC electric motor (BLDC), also known as an electronically commutated motor, is a synchronous motor using a direct current (DC) electric power supply. It uses an electronic controller to switch DC currents to the motor windings, producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. The controller adjusts the phase and amplitude of the current pulses that control the speed and torque of the motor. It is an improvement on the mechanical commutator (brushes) used in many conventional electric motors.
@@ -117,6 +118,8 @@ The advantages of a brushless motor over brushed motors are high power-to-weight
 |-|-|-|
 
 ## Sensors
+
+### Thermal Image Sensor Module
 
 ![](https://i0.wp.com/www.midastouchinc.com/wp-content/uploads/2021/06/Thermopile-arrany-80-62-Module-01.png)
 
@@ -161,6 +164,8 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 
 **Common Sensors**
 
+### RGB Camera Sensor Module
+
 ![](https://appleye.co.il/wp-content/uploads/2024/01/AE-MB-IMX577.jpg)
 
 |**Type**|**Description**|**Note**|
@@ -171,6 +176,8 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 
 
 ## Boards
+
+### Controller Board
 
 ![](https://raw.githubusercontent.com/ClemensElflein/xESC/main/docs/img/xESC2_mini.jpg)
 
