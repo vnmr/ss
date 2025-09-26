@@ -143,9 +143,10 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 **Common Sensors**
 
 |**Type**| |**Note**|
-|IMU| | | 
-|RGB Camera| | | 
-|Thermal Camera| | | 
+|IMU| Inertical Measurement Unit| | 
+|RGB Camera| Visible Color| | 
+|IR Camera| Nightvision| | 
+|LWIR Camera| Thermal| | 
 
 ## Boards
 
