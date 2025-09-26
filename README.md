@@ -67,13 +67,6 @@ Secure fast.
 
 ## Batteries
 
-|Type|D mm|L mm|Note|
-|-|-|-|
-|18650|18|65| Wideley Adopted LiOn|
-|21700|21|70| Next Gen LiOn|
-|26700|26|70| LiFePO4|
-
-
 A lithium polymer battery, or more correctly, lithium-ion polymer battery (abbreviated as LiPo, LIP, Li-poly, lithium-poly, and others), is a rechargeable battery derived from lithium-ion and lithium-metal battery technology. The primary difference is that instead of using a liquid lithium salt (such as lithium hexafluorophosphate, LiPF6) held in an organic solvent (such as EC/DMC/DEC) as the electrolyte, the battery uses a solid (or semi-solid) polymer electrolyte such as polyethylene glycol (PEG), polyacrylonitrile (PAN), poly(methyl methacrylate) (PMMA) or poly(vinylidene fluoride) (PVdF). Other terms used in the literature for this system include hybrid polymer electrolyte (HPE), where "hybrid" denotes the combination of the polymer matrix, the liquid solvent, and the salt.
 
 Polymer electrolytes can be divided into two large categories: dry solid polymer electrolytes (SPE) and gel polymer electrolytes (GPE).
@@ -86,10 +79,11 @@ Like other lithium-ion cells, LiPos operate based on the intercalation and de-in
 
 A typical cell has four main components: a positive electrode, a negative electrode, a separator, and an electrolyte. The separator itself may be a polymer, such as a microporous film of polyethylene (PE) or polypropylene (PP); thus, even when the cell has a liquid electrolyte, it will still contain a "polymer" component. In addition to this, the positive electrode can be further divided into three parts: the lithium-transition-metal-oxide (such as LiCoO2 or LiMn2O4), a conductive additive, and a polymer binder of poly(vinylidene fluoride) (PVdF). The negative electrode material may have the same three parts, only with carbon replacing the lithium-metal-oxide. The main difference between lithium-ion polymer cells and lithium-ion cells is the physical phase of the electrolyte, such that LiPo cells use dry solid, gel-like electrolytes, whereas Li-ion cells use liquid electrolytes.
 
-
-
-
-
+|Type|D mm|L mm|Note|
+|-|-|-|
+|18650|18|65| Wideley Adopted LiOn|
+|21700|21|70| Next Gen LiOn|
+|26700|26|70| LiFePO4|
 
 ## Motors
 
