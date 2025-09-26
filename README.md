@@ -67,6 +67,8 @@ Secure fast.
 
 ## Batteries
 
+![](https://cdn-shop.adafruit.com/970x728/5035-00.jpg)
+
 A lithium polymer battery, or more correctly, lithium-ion polymer battery (abbreviated as LiPo, LIP, Li-poly, lithium-poly, and others), is a rechargeable battery derived from lithium-ion and lithium-metal battery technology. The primary difference is that instead of using a liquid lithium salt (such as lithium hexafluorophosphate, LiPF6) held in an organic solvent (such as EC/DMC/DEC) as the electrolyte, the battery uses a solid (or semi-solid) polymer electrolyte such as polyethylene glycol (PEG), polyacrylonitrile (PAN), poly(methyl methacrylate) (PMMA) or poly(vinylidene fluoride) (PVdF). Other terms used in the literature for this system include hybrid polymer electrolyte (HPE), where "hybrid" denotes the combination of the polymer matrix, the liquid solvent, and the salt.
 
 Polymer electrolytes can be divided into two large categories: dry solid polymer electrolytes (SPE) and gel polymer electrolytes (GPE).
