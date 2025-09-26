@@ -12,7 +12,7 @@
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
 -->
 
-|**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered to perform**|
+|**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
 
 | |
 | [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
