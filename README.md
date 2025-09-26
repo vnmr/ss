@@ -79,11 +79,15 @@ Like other lithium-ion cells, LiPos operate based on the intercalation and de-in
 
 A typical cell has four main components: a positive electrode, a negative electrode, a separator, and an electrolyte. The separator itself may be a polymer, such as a microporous film of polyethylene (PE) or polypropylene (PP); thus, even when the cell has a liquid electrolyte, it will still contain a "polymer" component. In addition to this, the positive electrode can be further divided into three parts: the lithium-transition-metal-oxide (such as LiCoO2 or LiMn2O4), a conductive additive, and a polymer binder of poly(vinylidene fluoride) (PVdF). The negative electrode material may have the same three parts, only with carbon replacing the lithium-metal-oxide. The main difference between lithium-ion polymer cells and lithium-ion cells is the physical phase of the electrolyte, such that LiPo cells use dry solid, gel-like electrolytes, whereas Li-ion cells use liquid electrolytes.
 
+Common Cell Sizes
+
+
 |Type|D mm|L mm|Note|
-|-|-|-|
+|-|-|-|-|
 |18650|18|65| Wideley Adopted LiOn|
 |21700|21|70| Next Gen LiOn|
 |26700|26|70| LiFePO4|
+|-|-|-|-|
 
 ## Motors
 
