@@ -224,7 +224,7 @@ Substep supplies components for industrial robots, warehouse robots, mobile robo
 
 ## Pricing
 
-We work with you on design, volume quantiy, and pricing from single samples to millions of unitsin mass production.
+We work with you on design, volume quantity, and pricing from single samples to millions of unit mass production units.
 
 | |
 | [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
