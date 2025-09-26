@@ -172,7 +172,9 @@ Unlike a general-purpose system such as a home computer, usually a development b
 Substep supplies components for industrial robots, warehouse robots, mobile robots, robotic arms, quadrupeds, humanoids, space systems, satellites, aerospace, avionics, undersea robots, unmanned systems, uncrewered systems, drones, AMR, UAS, UAV, UUV, USV, cyber-physical systems and more.
 
 |Type|Note|
+|Drone|UAV, UAS, Unmanned Aerial Vehicle|
 |UAV|Unmanned Aerial Vehicle|
+|UAS|Unmanned Aerial System|
 |USV|Unmanned Surface Vehicle|
 |UUV|Unmanned Underwater Vehicle|
 |AMR|Automoous Mobile Robot|
