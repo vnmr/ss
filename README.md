@@ -170,6 +170,14 @@ Unlike a general-purpose system such as a home computer, usually a development b
 ## Systems
 Substep supplies components for industrial robots, warehouse robots, mobile robots, robotic arms, quadrupeds, humanoids, space systems, satellites, aerospace, avionics, undersea robots, unmanned systems, uncrewered systems, drones, AMR, UAS, UAV, UUV, USV, cyber-physical systems and more.
 
+|Type|Note|
+|UAV|Unmanned Aerial Vehicle|
+|USV|Unmanned Surface Vehicle|
+|UUV|Unmanned Underwater Vehicle|
+|AMR|Automoous Mobile Robot|
+|Humanoid|2 Legged Robot|
+|Quadruped|4 Legged Robot|
+
 ## About
 Substep is for engineers by engineers who have decades of hands-on experience designing and shipping at Bay Area, California startups and big tech with hardware, software, integration, manufacturing, and supply chain expertise across critical components and systems for autonomy, unmanned systems and robotics in all domains. 
 
