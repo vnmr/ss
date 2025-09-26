@@ -1,5 +1,7 @@
 ![grid](grid.png)
 
+## Subset Designs, Builds, and Ships high performance NDAA components to accelerate robotics designs.
+
 | **[Batteries](#batteries)** | **[Motors](#motors)** | **[Sensors](#sensors)** | **[Boards](#boards)** |
 |--|--|--|--|
 |1500 mAh| 250 KV|LWIR |Sensor|
