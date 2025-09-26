@@ -82,7 +82,7 @@ A typical cell has four main components: a positive electrode, a negative electr
 Common Cell Sizes
 
 
-|Type|D mm|L mm|Note|
+|**Type**|**D mm**|**L mm**|**Note**|
 |-|-|-|-|
 |18650|18|65| Widely Adopted LiOn|
 |21700|21|70| Next Gen LiOn|
