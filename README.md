@@ -99,6 +99,11 @@ A typical cell has four main components: a positive electrode, a negative electr
 
 1S1P 3S1P 6S1P
 
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
+
+
 ## Motors
 
 ### BLDC - Brushless Direct Current
@@ -117,6 +122,10 @@ The advantages of a brushless motor over brushed motors are high power-to-weight
 |Stepper| | |
 |BLDC| | |
 |PMSM| | |
+
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ## Sensors
 
@@ -175,6 +184,11 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 |IR Camera| Nightvision| | 
 |LWIR Camera| Thermal| | 
 
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
+
+
 
 ## Boards
 
@@ -201,6 +215,11 @@ Unlike a general-purpose system such as a home computer, usually a development b
 
 
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. We're building components we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
+
+
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
 
 ## Software
 Substep provides open source code, and documentation.
