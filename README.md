@@ -105,6 +105,7 @@ The advantages of a brushless motor over brushed motors are high power-to-weight
 |Inrunner| | |
 |BLDC| | |
 |PMSM| | |
+|-|-|-|
 
 ## Sensors
 
@@ -154,6 +155,7 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 |RGB Camera| Visible Color| | 
 |IR Camera| Nightvision| | 
 |LWIR Camera| Thermal| | 
+|-|-|-|
 
 ## Boards
 
@@ -173,6 +175,7 @@ Unlike a general-purpose system such as a home computer, usually a development b
 |Single Board Computer| | Complete Computer on a Board|
 |Sensor Board| Hosts sensors|
 |Motor Controller Board| Hosts motor control processor|
+|-|-|-|
 
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. We're building components we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
