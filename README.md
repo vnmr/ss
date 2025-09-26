@@ -111,14 +111,11 @@ Brushless motors fulfill many functions originally performed by brushed DC motor
 The advantages of a brushless motor over brushed motors are high power-to-weight ratio, high speed, nearly instantaneous control of speed (rpm) and torque, high efficiency, and low maintenance. Brushless motors find applications in such places as computer peripherals (disk drives, printers), hand-held power tools, and vehicles ranging from model aircraft to automobiles. In modern washing machines, brushless DC motors have allowed replacement of rubber belts and gearboxes by a direct-drive design.
 
 **Common Motors**
-|**Type**| | **Note**|
+|**Type**| |**Note**|
 |Servo| | |
 |Stepper| | |
-|Outrunner| | |
-|Inrunner| | |
 |BLDC| | |
 |PMSM| | |
-|-|-|-|
 
 ## Sensors
 
@@ -205,15 +202,15 @@ Unlike a general-purpose system such as a home computer, usually a development b
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. We're building components we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
 ## Software
-Substep providdes open source code, and documentation
+Substep provides open source code, and documentation.
 
 ## Support
-Substep provides full support
+Substep provides full support.
 
 ## Systems
 Substep supplies components for industrial robots, warehouse robots, mobile robots, robotic arms, quadrupeds, humanoids, space systems, satellites, aerospace, avionics, undersea robots, unmanned systems, uncrewered systems, drones, AMR, UAS, UAV, UUV, USV, cyber-physical systems and more.
 
-|Type|Note|
+|**Type**|**Note**|
 |Drone|UAV, UAS, Unmanned Aerial Vehicle|
 |UAV|Unmanned Aerial Vehicle|
 |UAS|Unmanned Aerial System|
@@ -231,8 +228,6 @@ We work with you on design, volume quantiy, and pricing from single samples to m
 | [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
 | | 
 
-|:--:|:--:|:--:|
-
 
 ## About
 Substep is for engineers by engineers who have decades of hands-on experience designing and shipping at Bay Area, California startups and big tech with hardware, software, integration, manufacturing, and supply chain expertise across critical components and systems for autonomy, unmanned systems and robotics in all domains. 
@@ -243,7 +238,7 @@ Q: What about X component?
 A: We're open. Tell us what you want, and we'll follow up.
 
 | |
-| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| [Text](sms:+1 4158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
 | | 
 
 |:--:|:--:|:--:|
