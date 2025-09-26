@@ -7,7 +7,7 @@
 |1500 mAh| 250 KV|LWIR |Sensor|
 | 1000  mAh| 1000 KV|RGB|Compute|
 |15000 mAh| 2500 KV|IMU|Controller|
-|LiPo / LiOn | 1-20 NM | SW+Docs | SWaP + SW |
+|LiPo / LiOn | 1-20 NM | SW + Docs | SWaP + SW |
 | | | | |
 
 <!--
