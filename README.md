@@ -86,7 +86,7 @@ A typical cell has four main components: a positive electrode, a negative electr
 ### LiOn - Lithium Ion
 ![LiOn - Lithium Ion](https://cdn-shop.adafruit.com/970x728/5035-00.jpg)
 
-**Common Cell Sizes**
+###Common Cell Sizes###
 
 |**Type**|**D mm**|**L mm**|**Note**|
 |-|-|-|-|
@@ -96,7 +96,7 @@ A typical cell has four main components: a positive electrode, a negative electr
 |-|-|-|-|
 
 
-**Common Pack Congurations**
+###Common Pack Congurations###
 1S1P 3S1P 6S1P
 
 | |
@@ -116,7 +116,7 @@ Brushless motors fulfill many functions originally performed by brushed DC motor
 
 The advantages of a brushless motor over brushed motors are high power-to-weight ratio, high speed, nearly instantaneous control of speed (rpm) and torque, high efficiency, and low maintenance. Brushless motors find applications in such places as computer peripherals (disk drives, printers), hand-held power tools, and vehicles ranging from model aircraft to automobiles. In modern washing machines, brushless DC motors have allowed replacement of rubber belts and gearboxes by a direct-drive design.
 
-**Common Motors**
+###Common Motors###
 |**Type**| |**Note**|
 |Servo| | |
 |Stepper| | |
@@ -172,7 +172,7 @@ A velocity or speed sensor measures consecutive position measurements at known i
 Applications
 In a parts feeder, a vision sensor can eliminate the need for an alignment pallet. Vision-enabled insertion robots can precisely perform fitting and insertion operations of machine parts.
 
-**Common Sensors**
+###Common Sensors###
 
 ### RGB Camera Sensor Module
 
@@ -204,7 +204,7 @@ As they are usually low-cost, and have an especially low capital cost for develo
 
 Unlike a general-purpose system such as a home computer, usually a development board contains little or no hardware dedicated to a user interface. It will have some provision to accept and run a user-supplied program, such as downloading a program through a serial port to flash memory, or some form of programmable memory in a socket in earlier systems.
 
-**Common Boards**
+###Common Boards###
 
 |**Type**| |**Note**|
 |Carrier Board| |Hosts a board|
