@@ -95,7 +95,8 @@ A typical cell has four main components: a positive electrode, a negative electr
 |26700|26|70| LiFePO4|
 |-|-|-|-|
 
-**Common Pack Congurations***
+**Common Pack Congurations**
+
 1S1P 3S1P 6S1P
 
 ## Motors
