@@ -94,6 +94,8 @@ A typical cell has four main components: a positive electrode, a negative electr
 
 ## Motors
 
+![](https://s.alicdn.com/@sc04/kf/H671d1afd1a684a3b8f68f8b963434ab2H.jpg)
+
 A brushless DC electric motor (BLDC), also known as an electronically commutated motor, is a synchronous motor using a direct current (DC) electric power supply. It uses an electronic controller to switch DC currents to the motor windings, producing magnetic fields that effectively rotate in space and which the permanent magnet rotor follows. The controller adjusts the phase and amplitude of the current pulses that control the speed and torque of the motor. It is an improvement on the mechanical commutator (brushes) used in many conventional electric motors.
 
 Brushless motors fulfill many functions originally performed by brushed DC motors, but cost and control complexity prevents brushless motors from replacing brushed motors completely in the lowest-cost areas. Nevertheless, brushless motors have come to dominate many applications, particularly devices such as computer hard drives and CD/DVD players. Small cooling fans in electronic equipment are powered exclusively by brushless motors. They can be found in cordless power tools where the increased efficiency of the motor leads to longer periods of use before the battery needs to be charged. Low speed, low power brushless motors are used in direct-drive turntables for gramophone records. Brushless motors can also be found in marine applications, such as underwater thrusters. Drones also utilize brushless motors to elevate their performance.
