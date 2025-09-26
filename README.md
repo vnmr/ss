@@ -84,7 +84,7 @@ Common Cell Sizes
 
 |Type|D mm|L mm|Note|
 |-|-|-|-|
-|18650|18|65| Wideley Adopted LiOn|
+|18650|18|65| Widely Adopted LiOn|
 |21700|21|70| Next Gen LiOn|
 |26700|26|70| LiFePO4|
 |-|-|-|-|
