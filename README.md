@@ -1,6 +1,6 @@
 ![grid](grid.png)
 
-## Subset Designs, Builds, and Ships high performance NDAA components to accelerate robotics designs.
+> Subset Designs, Builds, and Ships high performance NDAA components accelerating robotics development..
 
 | **[Batteries](#batteries)** | **[Motors](#motors)** | **[Sensors](#sensors)** | **[Boards](#boards)** |
 |--|--|--|--|
