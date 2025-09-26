@@ -142,6 +142,11 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 
 **Common Sensors**
 
+|**Type**| |**Note**|
+|IMU| | | 
+|RGB Camera| | | 
+|Thermal Camera| | | 
+
 ## Boards
 
 A single-board microcontroller is a microcontroller built onto a single printed circuit board. This board provides all of the circuitry necessary for a useful control task: a microprocessor, I/O circuits, a clock generator, RAM, stored program memory and any necessary support ICs. The intention is that the board is immediately useful to an application developer, without requiring them to spend time and effort to develop controller hardware.
@@ -154,10 +159,10 @@ Unlike a general-purpose system such as a home computer, usually a development b
 
 **Common Boards**
 
-|Type|Note|
-|Carrier Board| |
-|System on Module| |
-|Single Board Computer| |
+|**Type**| |**Note**|
+|Carrier Board| | |
+|System on Module| | |
+|Single Board Computer| | |
 |Motor COntroller Board| |
 
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. We're building components we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
