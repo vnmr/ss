@@ -237,7 +237,7 @@ Substep is for engineers by engineers who have decades of hands-on experience de
 ## FAQ
 Q: What about X component?
 
-A: We're open. Tell us what you want, and we'll follow up.
+A: Let's discuss.
 
 | |
 | [Text](sms:+1 4158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
