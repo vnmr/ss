@@ -115,6 +115,8 @@ The advantages of a brushless motor over brushed motors are high power-to-weight
 
 ## Sensors
 
+![](https://i0.wp.com/www.midastouchinc.com/wp-content/uploads/2021/06/Thermopile-arrany-80-62-Module-01.png)
+
 Robotic sensors are used to estimate a robot's condition and environment. These signals are passed to a controller to enable appropriate behavior.[1][2]
 
 Sensors in robots are based on the functions of human sensory organs. Robots require extensive information about their environment in order to function effectively.
