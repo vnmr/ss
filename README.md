@@ -160,10 +160,11 @@ Unlike a general-purpose system such as a home computer, usually a development b
 **Common Boards**
 
 |**Type**| |**Note**|
-|Carrier Board| | |
-|System on Module| | |
-|Single Board Computer| | |
-|Motor COntroller Board| |
+|Carrier Board| |Hosts a board |
+|System on Module| | Hosts a Processor |
+|Single Board Computer| | Complete Computer on a Board|
+|Sensor Board| Hosts sensors|
+|Motor Controller Board| Hosts motor control processor|
 
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. We're building components we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
