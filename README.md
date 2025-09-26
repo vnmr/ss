@@ -79,8 +79,7 @@ Like other lithium-ion cells, LiPos operate based on the intercalation and de-in
 
 A typical cell has four main components: a positive electrode, a negative electrode, a separator, and an electrolyte. The separator itself may be a polymer, such as a microporous film of polyethylene (PE) or polypropylene (PP); thus, even when the cell has a liquid electrolyte, it will still contain a "polymer" component. In addition to this, the positive electrode can be further divided into three parts: the lithium-transition-metal-oxide (such as LiCoO2 or LiMn2O4), a conductive additive, and a polymer binder of poly(vinylidene fluoride) (PVdF). The negative electrode material may have the same three parts, only with carbon replacing the lithium-metal-oxide. The main difference between lithium-ion polymer cells and lithium-ion cells is the physical phase of the electrolyte, such that LiPo cells use dry solid, gel-like electrolytes, whereas Li-ion cells use liquid electrolytes.
 
-Common Cell Sizes
-
+**Common Cell Sizes**
 
 |**Type**|**D mm**|**L mm**|**Note**|
 |-|-|-|-|
@@ -97,6 +96,8 @@ Brushless motors fulfill many functions originally performed by brushed DC motor
 
 
 The advantages of a brushless motor over brushed motors are high power-to-weight ratio, high speed, nearly instantaneous control of speed (rpm) and torque, high efficiency, and low maintenance. Brushless motors find applications in such places as computer peripherals (disk drives, printers), hand-held power tools, and vehicles ranging from model aircraft to automobiles. In modern washing machines, brushless DC motors have allowed replacement of rubber belts and gearboxes by a direct-drive design.
+
+**Common Motors**
 
 ## Sensors
 
@@ -139,6 +140,8 @@ A velocity or speed sensor measures consecutive position measurements at known i
 Applications
 In a parts feeder, a vision sensor can eliminate the need for an alignment pallet. Vision-enabled insertion robots can precisely perform fitting and insertion operations of machine parts.
 
+** Common Sensors **
+
 ## Boards
 
 A single-board microcontroller is a microcontroller built onto a single printed circuit board. This board provides all of the circuitry necessary for a useful control task: a microprocessor, I/O circuits, a clock generator, RAM, stored program memory and any necessary support ICs. The intention is that the board is immediately useful to an application developer, without requiring them to spend time and effort to develop controller hardware.
@@ -148,6 +151,8 @@ As they are usually low-cost, and have an especially low capital cost for develo
  A microprocessor development board is a printed circuit board containing a microprocessor and the minimal support logic needed for an electronic engineer or any person who wants to become acquainted with the microprocessor on the board and to learn to program it. It also served users of the microprocessor as a method to prototype applications in products.
 
 Unlike a general-purpose system such as a home computer, usually a development board contains little or no hardware dedicated to a user interface. It will have some provision to accept and run a user-supplied program, such as downloading a program through a serial port to flash memory, or some form of programmable memory in a socket in earlier systems.
+
+** Common Sensors **
 
 > **"Existing NDAA components fast follow, wrongly size features, or lack support. Non-NDAA options add untenable risk. We're building components we wish we had from prototype to production."** - Substep team after designing and shipping systems in all domains. 
 
