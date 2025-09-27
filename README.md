@@ -89,6 +89,7 @@ A typical cell has four main components: a positive electrode, a negative electr
 ### Common Cell Sizes
 
 |**Type**|**D mm**|**L mm**|**Note**|
+|:--|:--|:--|:--|
 |-|-|-|-|
 |18650|18|65| Widely Adopted LiOn|
 |21700|21|70| Next Gen LiOn|
@@ -122,6 +123,7 @@ The advantages of a brushless motor over brushed motors are high power-to-weight
 
 
 |**Type**| *Note**|
+|:--|:--|
 |Servo| Closed-loop|
 |Stepper| Open-loop|
 |BLDC| Brusheless Direct Current|
@@ -183,6 +185,7 @@ In a parts feeder, a vision sensor can eliminate the need for an alignment palle
 ### Common Sensors
 
 |**Type**|**Description**|**Note**|
+|:--|:--|:--|
 |IMU| Inertial Measurement Unit| Accel, Gyro, Mag| 
 |RGB Camera| Visible Color| | 
 |IR Camera| Nightvision| | 
@@ -236,6 +239,7 @@ Substep provides full support.
 Substep supplies components for industrial robots, warehouse robots, mobile robots, robotic arms, quadrupeds, humanoids, space systems, satellites, aerospace, avionics, undersea robots, unmanned systems, uncrewered systems, drones, AMR, UAS, UAV, UUV, USV, cyber-physical systems and more.
 
 |**Type**|**Note**|
+|:--|:--|
 |Drone|UAV, UAS, Unmanned Aerial Vehicle|
 |UAV|Unmanned Aerial Vehicle|
 |UAS|Unmanned Aerial System|
