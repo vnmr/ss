@@ -121,10 +121,10 @@ The advantages of a brushless motor over brushed motors are high power-to-weight
 ### Common Motors
 
 
-|**Type**| |**Note**|
-|Servo| Closed-loop| |
-|Stepper| Open-loop| |
-|BLDC| Brusheless Direct Current| |
+|**Type**| *Note**|
+|Servo| Closed-loop|
+|Stepper| Open-loop|
+|BLDC| Brusheless Direct Current|
 |PMSM| | Permanent Magnet Syncronous Motor|
 
 | |
