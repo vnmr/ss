@@ -97,7 +97,9 @@ A typical cell has four main components: a positive electrode, a negative electr
 
 
 ### Common Pack Congurations
-1S1P 3S1P 6S1P
+1S1P 
+3S1P 
+6S1P
 
 | |
 | [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
