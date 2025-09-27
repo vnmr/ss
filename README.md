@@ -210,8 +210,8 @@ Unlike a general-purpose system such as a home computer, usually a development b
 
 ### Common Boards
 
+|:--|:--|:--|
 |**Type**| |**Note**|
-|:--|:--|
 |Carrier Board| |Hosts a board|
 |System on Module| |Hosts a Processor|
 |SBC Single Board Computer| |Complete Computer on a Board|
