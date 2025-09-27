@@ -99,7 +99,11 @@ A typical cell has four main components: a positive electrode, a negative electr
 
 ### Common Pack Congurations
 1S1P 
+
+
 3S1P 
+
+
 6S1P
 
 | |
