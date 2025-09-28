@@ -20,7 +20,9 @@
 | [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
 | | 
 
-## Pro Capability, Everyday Avaialability
+## Pro Capability, Everyday Availability
+
+
 
 ## Accelerate Development, Increase Capability
 
