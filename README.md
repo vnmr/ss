@@ -232,6 +232,8 @@ Unlike a general-purpose system such as a home computer, usually a development b
 | [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
 | | 
 
+![grid](grid.png)
+
 ## Software
 Substep provides open source code, and documentation.
 
