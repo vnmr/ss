@@ -1,4 +1,4 @@
-|![grid](drone.png){:width="30%"}|![grid](humanoid.png){:width="30%"}|![grid](satellite.png){:width="39%"}|
+|![grid](drone.png){:width="100%"}|![grid](humanoid.png){:width="100%"}|![grid](satellite.png){:width="100%"}|
 
 <!-- ![grid](grid.png) -->
 
