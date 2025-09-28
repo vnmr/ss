@@ -19,8 +19,6 @@ minima:
   skin: midnight
   social_links:
     linkedin: https://linkedin.com/company/subset
-  #hide_site_feed_link: true  # `false` or `null` by default
-
 
 image:
   background: https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg
