@@ -12,9 +12,9 @@ remote_theme: jekyll/minima
 #remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: mmistakes/minimal-mistakes@4.27.3
 
-#minima:
-#skin: midnight
-social_links:
+minima:
+  skin: midnight
+  social_links:
     linkedin: https://linkedin.com/company/subset
 
 image:
