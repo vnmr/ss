@@ -5,7 +5,7 @@ future: true
 jailed: false
 url: https://substep.xyz
 
-remote_theme: jekyll/minima@v2.5.2
+remote_theme: jekyll/minima@v3.0
 #remote_theme: pages-themes/hacker@v0.2.0
 #remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: pages-themes/tactile@v0.2.0
@@ -19,6 +19,8 @@ minima:
   skin: midnight
   social_links:
     linkedin: https://linkedin.com/company/subset
+  hide_site_feed_link: true  # `false` or `null` by default
+
 
 image:
   background: https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg
