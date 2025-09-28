@@ -1,4 +1,4 @@
-![grid](drone.png | width=100) ![grid](humanoid.png) ![grid](satellite.png)
+![grid](drone.png){:height="36px" width="36px"} ![grid](humanoid.png) ![grid](satellite.png)
 ![grid](grid.png)
 
 > Subset Designs, Builds, and Ships high performance NDAA components accelerating autonomy, unmanned systems, and robotics development.
