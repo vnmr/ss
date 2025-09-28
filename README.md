@@ -277,4 +277,4 @@ A: Yes, we're intersted to learn more. Let's discuss.
 |:--:|:--:|:--:|
 | \+ 1415 812 3326 | info@substep.xyz | Substep LLC|
 |:--:|:--:|:--:|
-|-|[![LinkedIn](linkedin-30.png)](https://linkedin.com/company/substep) |-|
+||[![LinkedIn](linkedin-30.png)](https://linkedin.com/company/substep) ||
