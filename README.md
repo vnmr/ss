@@ -1,5 +1,5 @@
 ![grid](drone.png){:height="100px"}
-![grid](humanoid.png) {:height="100px"}
+![grid](humanoid.png){:height="100px"}
 ![grid](satellite.png){:height="100px"}
 ![grid](grid.png)
 
