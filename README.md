@@ -1,6 +1,5 @@
 |![grid](drone.png){:width="100%"}|![grid](humanoid.png){:width="100%"}|![grid](satellite.png){:width="100%"}|
 
-<!-- ![grid](grid.png) -->
 
 > Subset Designs, Builds, and Ships high performance NDAA components accelerating autonomy, unmanned systems, and robotics development.
 
@@ -18,6 +17,7 @@
 -->
 
 ## Pro Capability, Everyday Availability
+![grid](grid.png)
 
 |**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
 
