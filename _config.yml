@@ -19,7 +19,7 @@ minima:
   skin: midnight
   social_links:
     linkedin: https://linkedin.com/company/subset
-  hide_site_feed_link: true  # `false` or `null` by default
+  #hide_site_feed_link: true  # `false` or `null` by default
 
 
 image:
