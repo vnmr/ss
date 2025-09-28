@@ -16,7 +16,7 @@ plugins:
   - jekyll-remote-theme
 
 minima:
-  skin: midnight
+  skin: dark
   social_links:
     linkedin: https://linkedin.com/company/subset
 
