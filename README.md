@@ -10,15 +10,15 @@
 |LiPo / LiOn | 1-20 NM | SW + Docs | SWaP + SW |
 | | | | |
 
+| |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| | 
+
 <!--
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
 -->
 
 |**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
-
-| |
-| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
-| | 
 
 ## Pro Capability, Everyday Availability
 
