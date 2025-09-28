@@ -14,9 +14,8 @@
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
 -->
 
-|**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
-
 ## Pro Capability, Everyday Availability
+|**Built for autonomy, unmanned systems & robotics**|**Designed for NDAA compliance**| **Engineered for performance**|
 
 ## Accelerate Development, Increase Capability
 
