@@ -10,7 +10,7 @@
 |15000 mAh| 2500 KV|IMU|Controller|
 |LiPo / LiOn | 1-20 NM | SW + Docs | SWaP + SW |
 
-| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. Get started now. |
+| [Text](sms:+14158123326) or [Email](mailto:info@substep.xyz) your requirements. [Join the mailing list](https://forms.gle/YB5DS9b24FTMPABJ7). Get started now. |
 
 <!--
 ![grid](https://img.freepik.com/free-vector/dark-background-with-purple-squares_1053-430.jpg)
